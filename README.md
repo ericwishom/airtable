@@ -1,7 +1,5 @@
 # Airtable Destination Function
 
-# Airtable Destination Function
-
 This function helps you add user feedback directly into Airtable's [User Feedback template](https://airtable.com/templates/product-design-and-ux/expoiiRjvXfMHtXtC/user-feedback) once you've collected this information on your website.
 
 ## Getting Started
